@@ -91,7 +91,7 @@ I'm a full stack developer and a passionate competitive programmer...
 Clone the project
 
 ```bash
-  git clone https://github.com/bcsabhisekh/Digital-Farming.git
+  git clone https://github.com/ruthwik1512/apni-farming
 ```
 
 Go to the project directory
@@ -133,6 +133,6 @@ This project is used by the farmers for their personalized usage.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at y.abhisekhmessi535@gmail.com
+If you have any feedback, please reach out to us at minnalmittu07@gmail.com
 
 "# apni-farming" 
